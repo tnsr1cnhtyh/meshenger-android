@@ -3,3 +3,5 @@
 * fix request for camera permission on start
 * decouple listener service and database
 * fix value labels for video framerate/resolution in settings
+
+# Update: 2025-10-13
