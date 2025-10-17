@@ -3,3 +3,5 @@
 * add setting to change retries for connection (0..4)
 * minor UI changes, e.g. colors for call event icons
 * internal refactoring
+
+# Update: 2025-10-17
